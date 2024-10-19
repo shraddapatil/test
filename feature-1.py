@@ -6,3 +6,6 @@ def subf(x,y):
 
 def test(x):
     print(x)
+    
+def test(msg):
+    print(msg)
